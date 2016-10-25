@@ -1,5 +1,5 @@
 # INVENTAIRE
 ### Dossier de destination :#
-IB_X : /common/ || RENOMMER L'IMAGE TELECHARGEE EN "inventory_background".  
+__IB_X :__ /common/ *(renommer l'image en "inventory_background")*.  
 ...
 Aucun autre fichier.
