@@ -11,7 +11,7 @@ Allez dans le repertoire : ui > themes > Wolley_Thème Sram
 A partir de là, vous pouvez copier l'image téléchargée dans le bon dossier (common, texture...). Le dossier sera specifié sur la page de téléchargement de l'image.
 
 __Chemin en clair :__
-C:\Users\[VOTRENOM]\AppData\Roaming\Dofus2\ui\themes\Wolley_Thème Sram\  
+C:\Users\VOTRENOM\AppData\Roaming\Dofus2\ui\themes\Wolley_Thème Sram\  
 
 
 
