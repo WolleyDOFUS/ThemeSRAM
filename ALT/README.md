@@ -1,5 +1,6 @@
 # Images alternatives
-Vous pouvez trouver ici les images alternatives pour le thème Sram.
+Vous pouvez trouver ici les images alternatives pour le thème Sram.  
+Si vous cherchez une image qui se trouve dans l'inventaire, cherchez dans le dossier "Inventaire" (ci-dessus). Si vous cherchez une image de l'HUD, cherchez dans le dossier "HUD" etc... je pense que vous avez compris!
 
 # INSTALLATION :
 Appuyez sur la touche windows + r. Une fenêtre "Exécuter" devrait s'ouvrir. Rentrez "%appdata%" (sans les "").  
