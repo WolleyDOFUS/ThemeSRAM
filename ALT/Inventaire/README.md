@@ -5,7 +5,7 @@ Image | Dossier | Renommer en...
 - |- | -:
 IB_X | \common | inventory_background
   
-Image  | Dossier  |  Renommer en...
+Image  | Dossier  |  Renommer en
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
