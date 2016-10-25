@@ -2,8 +2,8 @@
 Images correspondant à l'HUD (la partie où se trouve la vie, les objets, le menu...).
 
 ### Dossier de destination :#
-__HP_X__ : \texture\hud • Correspond au coeur rouge (vie) *(renommer l'image en "icon_hp_full")*  
-__SP_X__ : \texture\hud • Correspond au coeur violet (bouclier) *(renommer l'image en "icon_shield_full")*   
-__Empty__ : \texture\hud • Correspond au coeur vide (plus de PV) *(renommer l'image en "icon_hp_empty")*  
-...  
-Aucun autre fichier.
+|  Image  |   Dossier    |    Description    |     Renommer en      |
+| ------- | ------------ | ----------------- | -------------------- |
+|  HP_X   | \texture\hud | Coeur de vie      | icon_hp_full.png     |
+|  SP_X   | \texture\hud | Coeur de bouclier | icon_shield_full.png |
+|  Empty  | \texture\hud | Coeur vide        | icon_hp_empty.png    |
