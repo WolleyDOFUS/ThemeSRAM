@@ -1,11 +1,11 @@
 # INVENTAIRE
 ### Dossier de destination :#
 
-__Image__ | __Dossier__ | __Renommer en...__
+Image | Dossier | Renommer en...
 - |- | -:
 IB_X | \common | inventory_background
   
-First Header  | Second Header
+Image  | Dossier  |  
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
