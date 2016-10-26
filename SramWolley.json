@@ -3,12 +3,12 @@
         "author" : "Wolley", 
         "name" : "Sram", 
         "keyWords" : "sram,interface,dofus,wolley", 
-        "version" : "1.0.1", 
+        "version" : "1.0.2", 
         "dofusVersion" : "2.37", 
-        "description" : "Un thème consacré à Sram. Attention, ce n'est pas pour les petits joueurs.", 
+        "description" : "Un thÃ¨me consacrÃ© Ã  Sram. Attention, ce n'est pas pour les petits joueurs.", 
         "url" : "https://github.com/WolleyDOFUS/ThemeSRAM/blob/master/Wolley_Th%C3%A8me%20Sram.zip?raw=true", 
         "previewUrl" : "https://raw.githubusercontent.com/WolleyDOFUS/ThemeSRAM/master/Preview.png", 
         "creationDate" : "25/10/2016", 
-        "modificationDate" : "25/10/2016" 
+        "modificationDate" : "26/10/2016" 
     } 
 ]
